@@ -110,7 +110,7 @@
 
 // how much data we save in a subscription object
 // eg max-subscription-payload-size
-#define SUBSCRIPTIONDATALEN 20
+#define SUBSCRIPTIONDATALEN 64
 
 class AdafruitIO_Feed;  // forward decl
 
